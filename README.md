@@ -10,6 +10,12 @@ Hi, my name is Tyler Crum,
   
   Email - Tyler.CrumTC@Gmail.com
   
+  Work History:
+  
+  Audio Enhancement - Software Engineer (May 2021 - Present)
+  
+  Audio Enhancement - Software Support  (My 2019 - May 2021)
+  
 
 
 <!---
